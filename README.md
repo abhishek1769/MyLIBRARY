@@ -1,1 +1,2 @@
 # MyLIBRARY
+Worked on the backend development of a new portal using PHP, JavaScript, HTML, CSS &MySQL database. I developed a full stack web portal that allows the user to upload or download any book PDFs with the common database. User can also modify their search using book name or more precisely with Author's name also. User can also make an announcement for their hardcopy books to be sold and they can buy also books. 
